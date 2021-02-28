@@ -2,8 +2,7 @@
   "name": "euro-tour",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
-    //"start": "ng serve",
+    "ng": "ng",    
     "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
