@@ -8,8 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent implements OnInit {
   title = 'Tour de France';
 
-  ngOnInit() {
-    console.log('hello dream!');
+  ngOnInit() {    
   }
 }
 
